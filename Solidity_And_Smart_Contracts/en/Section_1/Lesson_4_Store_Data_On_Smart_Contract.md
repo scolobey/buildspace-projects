@@ -145,7 +145,7 @@ So we:\
 2\. Changed the state variable.\
 3\. Read the new value of the variable.
 
-This is pretty much the basis of most smart contracts. Read functions. Write functions. And changing a state variable. We have the building blocks we need now to keep on working on our epic WavePortal.
+This is pretty much the basis of most smart contracts. Read functions. Write functions. Change a state variable. We have the building blocks we need now to keep on working on our epic WavePortal.
 
 Pretty soon, we'll be able to call these functions from our react app that we'll be working on :).
 
